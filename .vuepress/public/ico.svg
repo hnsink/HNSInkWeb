@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   data-noselect=""
+   viewBox="0 0 128 128"
+   width="128"
+   height="128"
+   preserveAspectRatio="none"
+   version="1.1"
+   class="svg-canvas"
+   id="svg57"
+   sodipodi:docname="hns.ink.ico.svg"
+   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview59"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     showgrid="false"
+     inkscape:zoom="1.9186164"
+     inkscape:cx="133.16888"
+     inkscape:cy="5.4726938"
+     inkscape:window-width="1848"
+     inkscape:window-height="1009"
+     inkscape:window-x="72"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg57" />
+  <defs
+     id="defs2" />
+  <g
+     id="g15"
+     transform="matrix(0.54926024,0,0,0.56928214,10.000628,9.9847785)">
+    <path
+       d="M 144.5,123.6 H 119.4 94.8 l 6.8,14.6 c -35.4,26.5 -69.6,36.3 -84,23.2 -6.2,-5.6 -10,-20.6 -4.7,-37.8 0.3,-0.8 0.5,-1.7 0.8,-2.5 -0.5,0.8 -0.9,1.7 -1.3,2.5 -13.7,26.2 -16.7,48.8 -5.7,60.3 16.5,17.3 59.4,4.3 102.8,-29 l 5.1,10.9 30.9,-42.2 z"
+       fill="#4fc1cc"
+       stroke-width="0"
+       id="path9" />
+    <polygon
+       points="95.7,37.8 92.5,36.5 89.3,37.9 90.6,34.7 89.2,31.5 92.4,32.8 95.6,31.4 94.3,34.6 "
+       fill="#4fc1cc"
+       stroke-width="0"
+       id="polygon11" />
+    <path
+       d="M 191.4,7.7 C 177.2,-7.2 139.9,0 105.3,23.7 l -1,-4 -2.5,4.4 -4.9,1.2 2.7,1.6 0.7,0.4 0.7,0.4 0.2,0.1 0.2,0.6 1.1,4.3 2.5,-4.4 4.9,-1.2 -3.1,-1.8 -0.1,-0.1 C 134.6,9.4 161.5,2 172.5,13.6 c 6.6,6.9 7.1,18.7 2.5,32.9 l -5,-4.2 -8.2,21.3 h 5.9 c 0,0 0,0 0,0 h 20.2 c 0,0 0,0 0,0 h 7.1 l -5.1,-4.4 c 10,-22.4 11.2,-41.2 1.5,-51.5 z"
+       fill="#4fc1cc"
+       stroke-width="0"
+       id="path13" />
+  </g>
+  <g
+     id="shape_ju4iwqpUZw"
+     transform="matrix(1.1259642,0,0,1,-39.115821,-99.651949)"
+     filter=""
+     style="opacity:1">
+    <g
+       id="g31">
+      <svg
+         version="1.1"
+         width="275"
+         height="324"
+         viewBox="0 0 275 324"
+         id="svg29">
+        <g
+           data-width="94.05000000000001"
+           transform="translate(45.475)"
+           id="g27">
+          <path
+             d="M 21.06,-30.02 H 27.4 V 0 H 21.06 V -12.42 H 9.45 V 0 H 3.06 v -30.02 h 6.39 v 12.25 h 11.61 z"
+             transform="translate(0,178)"
+             fill="#4fc1cc"
+             stroke="#4fc1cc"
+             stroke-width="0.075"
+             data-glyph-w="30.465"
+             data-glyph-h="45"
+             data-glyph-ascender="38.655"
+             data-glyph-descender="-6.345"
+             id="path21" />
+          <path
+             d="M 21.42,0 9.18,-22 V 0 H 3.06 v -30.02 h 8.19 l 11.93,22.37 v -22.37 h 6.07 V 0 Z"
+             transform="translate(30.465,178)"
+             fill="#4fc1cc"
+             stroke="#4fc1cc"
+             stroke-width="0.075"
+             data-glyph-w="32.31"
+             data-glyph-h="45"
+             data-glyph-ascender="38.655"
+             data-glyph-descender="-6.345"
+             id="path23" />
+          <path
+             d="M 18,0 H 2.92 v -5.35 h 13.73 q 3.28,0 4.37,-0.63 v 0 q 1.57,-0.95 1.57,-2.84 v 0 q 0,-2.21 -1.84,-3.19 v 0 q -1.04,-0.59 -3.34,-0.59 v 0 h -5.58 q -5.08,0 -7.33,-1.85 v 0 q -1.4,-1.17 -2.18,-2.92 -0.79,-1.76 -0.79,-3.78 v 0 q 0,-3.15 1.85,-5.76 v 0 q 1.79,-2.52 5.75,-2.97 v 0 q 1.35,-0.14 4.01,-0.14 v 0 h 14.9 v 5.36 H 14.58 q -3.02,0.05 -4.01,0.27 v 0 q -2.02,0.5 -2.02,3.06 v 0 q 0,2.16 1.71,2.88 v 0 q 1.12,0.54 3.78,0.54 v 0 h 4.82 q 3.68,0 5.48,0.63 v 0 q 3.2,1.08 4.41,3.78 v 0 q 0.95,2.16 0.95,4.63 v 0 q 0,2.75 -1.26,4.91 v 0 q -1.76,3.06 -5.26,3.69 v 0 Q 21.46,0 18,0 Z"
+             transform="translate(62.775,178)"
+             fill="#4fc1cc"
+             stroke="#4fc1cc"
+             stroke-width="0.075"
+             data-glyph-w="31.275"
+             data-glyph-h="45"
+             data-glyph-ascender="38.655"
+             data-glyph-descender="-6.345"
+             id="path25" />
+        </g>
+      </svg>
+    </g>
+  </g>
+  <g
+     id="shape_FheQWKPjK6"
+     transform="matrix(1.0646242,0,0,1.3613056,2.297454,12.704232)"
+     filter=""
+     style="opacity:1">
+    <g
+       id="g44">
+      <svg
+         version="1.1"
+         width="91"
+         height="115"
+         viewBox="0 0 91 115"
+         id="svg42">
+        <g
+           data-width="26.671875"
+           transform="translate(16.328125)"
+           id="g40">
+          <path
+             d="M 3.01,0 H 1.49 v -11.45 h 1.52 z"
+             transform="translate(0,63)"
+             fill="#4fc1cc"
+             stroke="#4fc1cc"
+             stroke-width="0.027"
+             data-glyph-w="4.4453125"
+             data-glyph-h="17.875"
+             data-glyph-ascender="14.484375"
+             data-glyph-descender="-3.390625"
+             id="path34" />
+          <path
+             d="M 2.67,0 H 1.22 v -11.45 h 1.55 l 6.02,8.99 v -8.99 h 1.45 V 0 H 8.69 L 2.67,-9 Z"
+             transform="translate(4.4453125,63)"
+             fill="#4fc1cc"
+             stroke="#4fc1cc"
+             stroke-width="0.027"
+             data-glyph-w="11.5546875"
+             data-glyph-h="17.875"
+             data-glyph-ascender="14.484375"
+             data-glyph-descender="-3.390625"
+             id="path36" />
+          <path
+             d="M 2.69,0 H 1.17 v -11.45 h 1.52 v 5.68 l 5.69,-5.68 h 2.05 L 5.63,-6.81 10.64,0 h -2 L 4.56,-5.8 2.69,-3.97 Z"
+             transform="translate(16,63)"
+             fill="#4fc1cc"
+             stroke="#4fc1cc"
+             stroke-width="0.027"
+             data-glyph-w="10.671875"
+             data-glyph-h="17.875"
+             data-glyph-ascender="14.484375"
+             data-glyph-descender="-3.390625"
+             id="path38" />
+        </g>
+      </svg>
+    </g>
+  </g>
+  <defs
+     id="defs53">
+    <pattern
+       id="wm_tile"
+       x="0"
+       y="0"
+       width="20%"
+       height="27%"
+       patternunits="objectBoundingBox">
+      <g
+         id="wm_lm"
+         transform="translate(-188.000000, -323.000000)"
+         fill="#cccccc">
+        <text
+           font-size="15"
+           transform="translate(270.490979, 373.245789) rotate(-390.000000) translate(-270.490979, -373.245789)"
+           id="text49"><tspan
+             x="187.490979"
+             opacity=".3"
+             y="378.245789"
+             id="tspan47">copyright © copyright © </tspan></text>
+      </g>
+    </pattern>
+  </defs>
+</svg>
